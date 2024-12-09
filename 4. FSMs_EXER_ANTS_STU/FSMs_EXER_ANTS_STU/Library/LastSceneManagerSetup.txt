@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SCENE_1_TWO_POINT.unity
+- path: Assets/Scenes/SCENE_4_SEED_COLLECTING_plus_FLEEING.unity
   isLoaded: 1
   isActive: 1
